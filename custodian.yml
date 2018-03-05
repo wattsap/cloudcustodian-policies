@@ -1,0 +1,9 @@
+policies:
+
+  - name: stop-instances
+    resource: ec2
+    filters:
+      - "tag:Custodian": present
+    actions:
+      - stop
+

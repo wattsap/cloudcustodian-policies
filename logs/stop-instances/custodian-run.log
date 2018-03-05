@@ -1,0 +1,10 @@
+2018-03-05 20:38:29,151 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:4 time:0.00
+2018-03-05 20:38:35,423 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:4 time:0.00
+2018-03-05 20:39:32,515 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:4 time:0.00
+2018-03-05 20:45:56,134 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:4 time:0.00
+2018-03-05 20:50:20,586 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:3 time:0.27
+2018-03-05 21:07:10,616 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:3 time:0.28
+2018-03-05 21:07:28,467 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:3 time:0.00
+2018-03-05 21:07:39,764 - custodian.policy - INFO - policy: stop-instances resource:ec2 region:us-east-1 count:3 time:0.00
+2018-03-05 21:07:39,766 - custodian.actions - INFO - Stop 3 of 3 instances
+2018-03-05 21:07:40,624 - custodian.policy - INFO - policy: stop-instances action: stop resources: 3 execution_time: 0.86
